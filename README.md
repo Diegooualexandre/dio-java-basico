@@ -4,3 +4,5 @@ Repositório para armazenar todo o código do curso de Java Básico
 Alterando dados só para testar.
 
 Não acredito que deu certo, tou testando outra vez só para tirar as minhas dúvidas.
+
+Rapaaaaaaz, pois não é que consegui sincronizar o Github no VS Code???
